@@ -1,0 +1,22 @@
+[2020-12-23 22:39:33.509] [aitrack] [info]  ----------  AITRACK LOG   ----------
+[2020-12-23 22:39:40.608] [aitrack] [info] Created/Found prefs.ini
+[2020-12-23 22:39:40.608] [aitrack] [info] Searching for cameras...
+[2020-12-23 22:39:41.249] [aitrack] [info] Number of recognized cameras: 1
+[2020-12-23 22:39:41.251] [aitrack] [info] UDP sender reinitialized. IP: 192.168.0.106  PORT: 4242
+[2020-12-23 22:39:41.251] [aitrack] [info] Building Tracker with selected camera: 0
+[2020-12-23 22:39:41.456] [aitrack] [info] Tracker initialized.
+[2020-12-23 22:39:41.456] [aitrack] [info] Updated stabilizer.
+[2020-12-23 22:39:41.456] [aitrack] [info] Updating camera parameters...
+[2020-12-23 22:39:41.458] [aitrack] [info] Updated camera parameters. 640x480@75
+[2020-12-23 22:39:41.458] [aitrack] [info] Checking for updates
+[2020-12-23 22:39:41.552] [aitrack] [info] App initialized
+[2020-12-23 22:39:45.954] [aitrack] [info] Saving prefs
+[2020-12-23 22:39:45.954] [aitrack] [info] Updated stabilizer.
+[2020-12-23 22:39:45.954] [aitrack] [info] UDP sender reinitialized. IP: 192.168.0.106  PORT: 4242
+[2020-12-23 22:39:45.954] [aitrack] [info] Updating camera parameters...
+[2020-12-23 22:39:45.957] [aitrack] [info] Updated camera parameters. 640x480@75
+[2020-12-23 22:39:45.957] [aitrack] [info] Tracker initialized.
+[2020-12-23 22:39:45.959] [aitrack] [info] Prefs saved
+[2020-12-23 22:39:49.042] [aitrack] [info] Starting camera 0 capture
+[2020-12-23 22:39:49.070] [aitrack] [info] Camera 0 started capturing
+[2020-12-23 22:43:28.373] [aitrack] [info] Stop camera 0 capture
